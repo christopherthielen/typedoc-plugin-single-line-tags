@@ -1,0 +1,27 @@
+{
+  "name": "typedoc-plugin-single-line-tags",
+  "version": "1.0.0",
+  "description": "Process specific typedoc @tags as single lines (instead of multiline)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "typedocplugin",
+    "typedoc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopherthielen/typedoc-plugin-single-line-tags"
+  },
+  "author": "Chris Thielen",
+  "license": "MIT",
+  "peerDependencies": {
+    "typedoc": "^0.8.0"
+  },
+  "devDependencies": {
+    "typedoc": "^0.8.0",
+    "typescript": "^2.4.0"
+  }
+}
