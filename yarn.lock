@@ -485,9 +485,13 @@ typedoc@^0.8.0:
     typedoc-default-themes "^0.5.0"
     typescript "2.4.1"
 
-typescript@2.4.1, typescript@^2.4.0:
+typescript@2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.4.1.tgz#c3ccb16ddaa0b2314de031e7e6fee89e5ba346bc"
+
+typescript@^3.9.6:
+  version "3.9.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.6.tgz#8f3e0198a34c3ae17091b35571d3afd31999365a"
 
 uglify-js@^2.6:
   version "2.7.3"
